@@ -1,6 +1,6 @@
 apps:
     - script: ./index.js
       name: 'test-auto-deploy'
-      instances: 4
-      watch: true
+      instances: 2
+      watch: false
       exec_mode: cluster
