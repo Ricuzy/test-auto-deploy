@@ -7,7 +7,7 @@
     "express": "^4.17.1"
   },
   "scripts": {
-    "build-prod": "",
+    "build-prod": "ls",
     "start-prod": "pm2 restart pm2.yml"
   }
 }

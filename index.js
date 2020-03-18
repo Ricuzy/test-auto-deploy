@@ -6,4 +6,4 @@ app.get(`/`, (req, res, next) => {
     res.send(`Hello Deploy auto updated second Version`).end()
 })
 
-app.listen(9471, () => { console.log(`app is running at port: 9038`)})
+app.listen(9232, () => { console.log(`app is running at port: 9232`)})
