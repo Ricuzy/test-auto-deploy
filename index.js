@@ -19,7 +19,7 @@ app.get(`/`, (req, res, next) => {
             <meta content="telephone=no,email=no" name="format-detection" />
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
             <meta content="black" name="apple-mobile-web-app-status-bar-style" />
-            <script src="//cdn.bootcss.com/jquery/3.4.1/core.js"></script>
+            <script src="//cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
             <meta
                 name="viewport"
                 content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover"
